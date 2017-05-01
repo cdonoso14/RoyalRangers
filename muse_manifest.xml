@@ -1,0 +1,216 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.royalrangers.com" resolutions="1x" timestamp="1493668160703">
+  <folder name="css">
+    <file name="site_global.css" crc="250969651"/>
+    <file name="master_a-master.css" crc="4211001238" ref="events:programs:about-us:index:connect"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="events:programs:about-us:index:connect"/>
+    <file name="events.css" crc="4166686960" ref="events"/>
+    <file name="nomq_events.css" crc="91617056" ref="events"/>
+    <file name="programs.css" crc="486799251" ref="programs"/>
+    <file name="nomq_programs.css" crc="3863320003" ref="programs"/>
+    <file name="about-us.css" crc="121330170" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="298338593" ref="about-us"/>
+    <file name="index.css" crc="259014053" ref="index"/>
+    <file name="nomq_index.css" crc="3769853899" ref="index"/>
+    <file name="connect.css" crc="430616853" ref="connect"/>
+    <file name="nomq_connect.css" crc="199882082" ref="connect"/>
+  </folder>
+  <folder name="assets">
+    <file name="royalrangers.psd" crc="468380146" seo="true" mt="1492569385000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:events:connect:programs"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about-us:events:connect:programs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:events:connect:programs"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about-us:events:connect:programs"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about-us:events:connect:programs"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about-us:events:connect:programs"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:events:connect:programs"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about-us:events:connect:programs"/>
+    <file name="require.js" crc="4234670167" ref="index:about-us:events:connect:programs"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-16062x52.svg" crc="4281177281" seo="true" ref="index:about-us:events:connect:programs">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 16062x52_poster_.png" crc="3811532585" ref="index"/>
+    <file name="u1015-4.png" crc="101889131" ref="index:about-us:events:connect:programs"/>
+    <file name="u1008-4.png" crc="3827069638" ref="index:about-us:events:connect:programs"/>
+    <file name="u1054-4.png" crc="3825397356" ref="index:about-us:events:connect:programs"/>
+    <file name="u1081-4.png" crc="534709370" ref="index:about-us:events:connect:programs"/>
+    <file name="u1109-4.png" crc="123956287" ref="index:about-us:events:connect:programs"/>
+    <file name="dawid-zawila-229728-crop-u457.jpg" crc="4235763258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u442-7.png" crc="4215516362" ref="index"/>
+    <file name="pasted-svg-5261x52.svg" crc="4015283562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 5261x52_poster_.png" crc="140618664" ref="index"/>
+    <file name="u509-4.png" crc="4046974806" ref="index"/>
+    <file name="u1681-4.png" crc="200899243" ref="index"/>
+    <file name="pasted-svg-33241x37.svg" crc="463274972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 33241x37_poster_.png" crc="4231505160" ref="index"/>
+    <file name="pasted-svg-11583x12.svg" crc="4180150601" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 11583x12_poster_.png" crc="438595714" ref="index"/>
+    <file name="pasted-svg-33241x372.svg" crc="3901014950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 33241x37_poster_2.png" crc="4036685778" ref="index"/>
+    <file name="u1684-7.png" crc="218946426" ref="index"/>
+    <file name="u1690-5.png" crc="101836682" ref="index"/>
+    <file name="u1696-5.png" crc="4120116962" ref="index"/>
+    <file name="u593-9.png" crc="4055312368" ref="index"/>
+    <file name="u2106-4.png" crc="3914049802" ref="index"/>
+    <file name="pasted-svg-1039919x164.svg" crc="4041739678" seo="true" ref="index:about-us:events:connect:programs">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 1039919x164_poster_.png" crc="378616861" ref="index"/>
+    <file name="dawid-zawila-229728-crop-u4572.jpg" crc="3836912362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u442-72.png" crc="347818737" ref="index"/>
+    <file name="u509-42.png" crc="488944003" ref="index"/>
+    <file name="u1681-42.png" crc="27315659" ref="index"/>
+    <file name="u1684-72.png" crc="3909310560" ref="index"/>
+    <file name="u1690-52.png" crc="4101612178" ref="index"/>
+    <file name="u593-92.png" crc="4278705634" ref="index"/>
+    <file name="u2106-42.png" crc="3786836434" ref="index"/>
+    <file name="u1696-52.png" crc="504344399" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:events:connect:programs"/>
+    <file name="photo01-crop-u1749.jpg" crc="4127138909" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted-svg-418041x89.svg" crc="3957668512" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted svg 418041x89_poster_.png" crc="4270625200" ref="about-us"/>
+    <file name="u1824-4.png" crc="3931142176" ref="about-us"/>
+    <file name="u1830-8.png" crc="299995455" ref="about-us"/>
+    <file name="pasted-svg-155333x57.svg" crc="4021012951" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted svg 155333x57_poster_.png" crc="253369045" ref="about-us"/>
+    <file name="u2094-4.png" crc="3914049802" ref="about-us"/>
+    <file name="photo01-crop-u17492.jpg" crc="469105435" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1824-42.png" crc="50520659" ref="about-us"/>
+    <file name="u1830-82.png" crc="17279637" ref="about-us"/>
+    <file name="u2094-42.png" crc="4101938811" ref="about-us"/>
+    <file name="eventsphoto-crop-u1894.jpg" crc="342308686" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="u1922-4.png" crc="3792584716" ref="events"/>
+    <file name="pasted-svg-35272x33.svg" crc="3987946189" seo="true" ref="events:connect:programs">
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="pasted svg 35272x33_poster_.png" crc="3800112282" ref="events"/>
+    <file name="u1991-4.png" crc="3791894081" ref="events"/>
+    <file name="u1992-22.png" crc="17072105" ref="events"/>
+    <file name="u2002-22.png" crc="4166088664" ref="events"/>
+    <file name="u2082-4.png" crc="3914049802" ref="events"/>
+    <file name="eventsphoto-crop-u18942.jpg" crc="4255741414" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="u1922-42.png" crc="458125981" ref="events"/>
+    <file name="u1991-42.png" crc="121466615" ref="events"/>
+    <file name="u1992-222.png" crc="505810795" ref="events"/>
+    <file name="u2002-222.png" crc="4241496346" ref="events"/>
+    <file name="u2082-42.png" crc="4101938811" ref="events"/>
+    <file name="11-crop-u3072.jpg" crc="53977047" seo="true" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="u2046-4.png" crc="458228558" ref="connect"/>
+    <file name="u2070-4.png" crc="522757" ref="connect"/>
+    <file name="u2073-13.png" crc="4051034907" ref="connect"/>
+    <file name="u2007-4.png" crc="3914049802" ref="connect"/>
+    <file name="u2070-42.png" crc="117625553" ref="connect"/>
+    <file name="u2073-132.png" crc="165565298" ref="connect"/>
+    <file name="11-crop-u30722.jpg" crc="3933320082" seo="true" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="u2046-42.png" crc="3911333022" ref="connect"/>
+    <file name="u2007-42.png" crc="4101938811" ref="connect"/>
+    <file name="danka-peter-178-crop-u2146.jpg" crc="423734476" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="u2192-4.png" crc="405978658" ref="programs"/>
+    <file name="pasted-svg-12042x40.svg" crc="530627441" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 12042x40_poster_.png" crc="4203524253" ref="programs"/>
+    <file name="pasted-svg-12042x402.svg" crc="4289095854" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 12042x40_poster_2.png" crc="4153656066" ref="programs"/>
+    <file name="pasted-svg-12042x403.svg" crc="363180232" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 12042x40_poster_3.png" crc="480037618" ref="programs"/>
+    <file name="u2213-4.png" crc="87727114" ref="programs"/>
+    <file name="u2219-4.png" crc="4083596176" ref="programs"/>
+    <file name="u2222-6.png" crc="465114121" ref="programs"/>
+    <file name="u2261-7.png" crc="218946426" ref="programs"/>
+    <file name="u2262-5.png" crc="101836682" ref="programs"/>
+    <file name="u2263-5.png" crc="4120116962" ref="programs"/>
+    <file name="u2125-4.png" crc="3914049802" ref="programs"/>
+    <file name="danka-peter-178-crop-u21462.jpg" crc="419196725" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="u2192-42.png" crc="3924055240" ref="programs"/>
+    <file name="u2213-42.png" crc="4069024984" ref="programs"/>
+    <file name="u2261-72.png" crc="523309849" ref="programs"/>
+    <file name="u2219-42.png" crc="190508359" ref="programs"/>
+    <file name="u2262-52.png" crc="3856211982" ref="programs"/>
+    <file name="u2222-62.png" crc="424798050" ref="programs"/>
+    <file name="u2263-52.png" crc="345866374" ref="programs"/>
+    <file name="u2125-42.png" crc="4101938811" ref="programs"/>
+  </folder>
+  <file name="index.html" crc="4276970201" seo="true" mt="1493523784363" redirect="true"/>
+  <file name="about-us.html" crc="4241699445" seo="true" mt="1493524798508" redirect="true"/>
+  <file name="events.html" crc="4293863332" seo="true" mt="1493523646672" redirect="true"/>
+  <file name="connect.html" crc="4195789723" seo="true" mt="1493524963493" redirect="true"/>
+  <file name="programs.html" crc="4216222264" seo="true" mt="1493524521091" redirect="true"/>
+</manifest>
